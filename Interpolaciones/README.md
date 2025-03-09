@@ -10,14 +10,14 @@ Primeramente, debe crear un entorno virtual de Python en su equipo. Ejecute el s
 
 #### Paso 2:
 Luego, entrará a su entorno virtual (`cd env`) y clonará el repositorio dentro del mismo, escribiendo el siguiente comando en la consola:
-`git clone https://github.com/Nelson-GT/interpolacion.git`
+`git clone https://github.com/jdcorderor/tarea-graficacion.git`
 
 #### Paso 3:
 Ahora, procederá a activarlo, escribiendo en la consola, con la ubicación de su entorno el siguiente comando:
 `Scripts\activate`
 
 #### Paso 4:
-Seguidamente, entrará a la nueva carpeta recién creada (interpolaciones) (`cd interpolaciones`), e instalará las dependencias necesarias, escribiendo en la consola el siguiente comando: 
+Seguidamente, entrará a la nueva carpeta recién creada e instalará las dependencias necesarias, escribiendo en la consola el siguiente comando: 
 `pip install -r requirements.txt`
 
 #### Paso 5:
