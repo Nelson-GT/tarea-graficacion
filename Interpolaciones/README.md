@@ -38,7 +38,7 @@ En la ciudad de Estocolmo se hicieron investigaciones meteorológicas, con el ob
 
 - ( 2, -26)
 </b>
-Se determinó que la temperatura tenía un comportamiento similar a la expresión matemática:  <b>y = x^4 - 5x^3 - 2</b>. Por último, se intuye que los valores de las funciones derivadas para <b>-2, 0 y 2 son -92, 0 y -28</b>, respectivamente.  Conociendo estos datos, el equipo de investigadores desea realizar una interpolación, con la finalidad de comparar los resultados. Para ello utilizarán cuatro métodos, los cuales son: Taylor, Lagrange, Hermite, y Polinómica a Trozos (Interpolador por splines).
+Se determinó que la temperatura presenta un comportamiento similar a la expresión matemática:  <b>y = x^4 - 5x^3 - 2</b>. De esta manera, se asume que los valores de las funciones derivadas para <b>-2, 0 y 2 son -92, 0 y -28</b>, respectivamente.  Conociendo estos datos, el equipo de investigadores desea realizar una interpolación, con la finalidad de comparar los resultados. En este sentido, utilizarán cuatro métodos: Taylor, Lagrange, Hermite, y Polinómica a Trozos (Interpolador por splines).
 
 Además, para la interpolación de Taylor, se desea aproximar al punto x = 1, con un máximo de 3 derivadas.
 
