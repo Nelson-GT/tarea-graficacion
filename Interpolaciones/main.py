@@ -72,7 +72,7 @@ plt.plot(x_grafica_trozos, y_grafica_trozos, color='blue', label='Interpolación
 plt.plot(x_funcion_trozos, y_funcion_trozos, color='green', linestyle='--', label='Función x^4 - 5x^3 -2')
 plt.scatter(puntos_x_trozos, puntos_y_trozos, color='red', label='Puntos originales')
 plt.title("Interpolación a Trozos")
-plt.xlabel("Tiempo del estudio)
+plt.xlabel("Tiempo del estudio")
 plt.ylabel("Temperatura")
 plt.legend()
 plt.grid(True)
