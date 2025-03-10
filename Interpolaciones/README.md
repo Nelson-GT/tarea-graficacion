@@ -26,7 +26,7 @@ Con esto, ya podrá ejecutar el archivo <b>main.py</b>, el principal del proyect
 
 
 ## Enunciado:
-En la ciudad de Estocolmo se hicieron investigaciones meteorológicas, con el objetivo de encontrar las temperaturas y procesar la información para analizar el cambio climático de la región. En las investigaciones dadas se evaluaron las temperaturas en un periodo de 24 horas, con 4.8 horas entre análisis, los datos obtenidos fueron: 
+En la ciudad de Estocolmo se realizaron investigaciones meteorológicas, con el objetivo de estudiar la variación de la temperatura, procesar datos y analizar el cambio climático de la región. En las investigaciones se evaluaron las temperaturas en un lapso de 24 horas, con 4.8 horas entre análisis, los datos obtenidos fueron: 
 <b>
 - ( -2, 54)
 
@@ -38,7 +38,7 @@ En la ciudad de Estocolmo se hicieron investigaciones meteorológicas, con el ob
 
 - ( 2, -26)
 </b>
-Se determinó que la temperatura presenta un comportamiento similar a la expresión matemática:  <b>y = x^4 - 5x^3 - 2</b>. De esta manera, se asume que los valores de las funciones derivadas para <b>-2, 0 y 2 son -92, 0 y -28</b>, respectivamente.  Conociendo estos datos, el equipo de investigadores desea realizar una interpolación, con la finalidad de comparar los resultados. En este sentido, utilizarán cuatro métodos: Taylor, Lagrange, Hermite, y Polinómica a Trozos (Interpolador por splines).
+Se determinó que la temperatura presenta un comportamiento similar a la expresión matemática:  <b>y = x^4 - 5x^3 - 2</b>. De esta manera, se asume que los valores de las funciones derivadas para los puntos (X) <b>-2, 0 y 2 son -92, 0 y -28</b>, respectivamente.  Conociendo estos datos, el equipo de investigadores desea realizar una interpolación, con la finalidad de comparar los resultados. En este sentido, utilizarán cuatro métodos: Taylor, Lagrange, Hermite, y Polinómica a Trozos (Interpolador por splines).
 
 Además, para la interpolación de Taylor, se desea aproximar al punto x = 1, con un máximo de 3 derivadas.
 
